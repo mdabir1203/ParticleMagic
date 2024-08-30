@@ -13,9 +13,13 @@ A professional, production-grade p5.js project demonstrating particles moving th
 # Features
 
 🌊 Dynamic Flow Field: Periodically updated for fluid-like motion
+
 🎨 Colorful Particles: Hue shifts create a vibrant, ever-changing display
+
 📱 Responsive Design: Adapts seamlessly to various screen sizes
+
 ⚡ Performance Optimized: Efficient rendering for smooth animations
+
 🛠️ Configurable: Easy-to-adjust settings for customization
 
 # Installation
