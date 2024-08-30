@@ -25,14 +25,16 @@ A professional, production-grade p5.js project demonstrating particles moving th
 # Installation
 
 Clone this repository:
+
 Copy `git clone https://github.com/yourusername/flow-field-particles.git`
 
 Navigate to the project directory:
+
 Copy `cd flow-field-particles`
 
 # Install dependencies:
-Copy `npm install`
 
+Copy `npm install`
 
 ## Usage
 
